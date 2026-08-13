@@ -15,7 +15,13 @@ public class LinkedListExample {
 	cityName.add("CHE");
 	cityName.add("KOL");
 	
-	System.out.println(cityName);
+	
+	
+	cityName.addFirst("kanpur");
+	cityName.addLast("kochi");
+	cityName.remove("HYD");
+	
+	System.out.println("city Name : " + cityName);
 
 	}
 
