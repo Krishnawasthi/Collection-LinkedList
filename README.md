@@ -6,6 +6,9 @@
 It stores elements as **nodes**, where each node contains data and references to the previous and next nodes.
 <img width="814" height="357" alt="image" src="https://github.com/user-attachments/assets/2d8161e3-b069-471c-9c68-98bfed04490f" />
 
+<img width="985" height="277" alt="image" src="https://github.com/user-attachments/assets/778a78b9-1fca-4a76-b77d-efa3c94de24c" />
+
+
 
 ## Basic Example
 
