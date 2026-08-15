@@ -44,6 +44,8 @@ Previous | Data | Next
 
 ## LinkedList vs ArrayList
 
+<img width="868" height="246" alt="image" src="https://github.com/user-attachments/assets/17f88c45-7a60-4d6b-98b3-5e7704fc9a0f" />
+
 | Feature            | LinkedList         | ArrayList     |
 | ------------------ | ------------------ | ------------- |
 | Internal Structure | Doubly Linked List | Dynamic Array |
