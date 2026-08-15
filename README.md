@@ -14,6 +14,9 @@ It stores elements as **nodes**, where each node contains data and references to
 
 <img width="1085" height="435" alt="image" src="https://github.com/user-attachments/assets/86d28a53-bd29-48f3-bd6a-e7f91fb86f03" />
 
+<img width="962" height="383" alt="image" src="https://github.com/user-attachments/assets/64bab75f-eb0e-40c5-ab9e-9946a235e5cc" />
+
+
 
 ## Internal Structure
 
