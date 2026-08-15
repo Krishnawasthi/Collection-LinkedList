@@ -12,22 +12,8 @@ It stores elements as **nodes**, where each node contains data and references to
 
 ## Basic Example
 
-```java
-import java.util.LinkedList;
+<img width="1085" height="435" alt="image" src="https://github.com/user-attachments/assets/86d28a53-bd29-48f3-bd6a-e7f91fb86f03" />
 
-public class Main {
-    public static void main(String[] args) {
-
-        LinkedList<String> list = new LinkedList<>();
-
-        list.add("Java");
-        list.add("Python");
-        list.add("SQL");
-
-        System.out.println(list);
-    }
-}
-```
 
 ## Internal Structure
 
