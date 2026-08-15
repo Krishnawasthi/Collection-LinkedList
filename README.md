@@ -4,6 +4,8 @@
 `LinkedList` is a class in Java that implements the `List` and `Deque` interfaces.
 
 It stores elements as **nodes**, where each node contains data and references to the previous and next nodes.
+<img width="814" height="357" alt="image" src="https://github.com/user-attachments/assets/2d8161e3-b069-471c-9c68-98bfed04490f" />
+
 
 ## Basic Example
 
